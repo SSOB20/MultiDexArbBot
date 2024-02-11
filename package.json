@@ -25,7 +25,7 @@
     "chalk-table": "^1.0.2",
     "dotenv": "^10.0.0",
     "ethers": "^5.4.7",
-    "mongoose": "^6.0.9",
+    "mongoose": "^8.0.0",
     "node-cron": "^3.0.0",
     "telegraf": "^4.4.2",
     "ts-node-dev": "^2.0.0",
